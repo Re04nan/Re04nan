@@ -3,10 +3,10 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/renan-marques-615882a4/) </br>
 #### **Seja Bem vindo(a)**, aqui vou está compartilhando com vocês não só a minha evolução na carreira de ***dev full stack*** como também a minha criatividade, sinta-se a vontade para comentar e explorar os conteúdos.
 
-**Hard skills:**</br><img src="https://www.flaticon.com/svg/static/icons/svg/226/226269.svg" alt="HTML5" width="20" height="20"/> 
-<img src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" alt="CSS" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="JS" width="20" height="20"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git" width="20" height="20"/>
+**Hard skills:**</br><img src="https://www.flaticon.com/svg/static/icons/svg/226/226269.svg" alt="HTML5" title="HTML5" width="20" height="20"/> 
+<img src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" alt="CSS" title="CSS" width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="JS" title="JavaScript" width="20" height="20"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git" title="Git" width="20" height="20"/>
 ...
 <!--
 **Soft Skills:** - habilidades interpessoais
