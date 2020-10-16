@@ -6,6 +6,7 @@
 **Hard skills:**</br><img src="https://www.flaticon.com/svg/static/icons/svg/226/226269.svg" alt="HTML5" width="20" height="20"/> 
 <img src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" alt="CSS" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="JS" width="20" height="20"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git" width="20" height="20"/>
 ...
 <!--
 **Soft Skills:** - habilidades interpessoais
