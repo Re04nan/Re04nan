@@ -8,7 +8,7 @@
 <img src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" alt="CSS" title="CSS" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="JS" title="JavaScript" width="20" height="20"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git" title="Git" width="20" height="20"/>
-<img src="https://www.webtng.com/wp-content/uploads/2017/09/mysql-logo.png" alt="MySQL" title="MySQL" width="20" height="20"/>
+<img src="https://soltveit.org/wp-content/uploads/2014/02/mysql-database-logo-web.png" alt="MySQL" title="MySQL" width="20" height="20"/>
 ...
 <!--
 **Soft Skills:** - habilidades interpessoais
