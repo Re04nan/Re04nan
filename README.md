@@ -8,6 +8,7 @@
 <img src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" alt="CSS" title="CSS" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="JS" title="JavaScript" width="20" height="20"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git" title="Git" width="20" height="20"/>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-png-transparent.png" alt="MySQL" title="MySQL" width="20" height="20"/>
 ...
 <!--
 **Soft Skills:** - habilidades interpessoais
