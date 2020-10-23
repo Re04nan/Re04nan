@@ -9,6 +9,7 @@
 <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="JS" title="JavaScript" width="20" height="20"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git" title="Git" width="20" height="20"/>
 <img src="https://soltveit.org/wp-content/uploads/2014/02/mysql-database-logo-web.png" alt="MySQL" title="MySQL" width="20" height="20"/>
+<img src="http://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png" alt="PHP" title="PHP" width="20" height="20"/>
 ...
 <!--
 **Soft Skills:** - habilidades interpessoais
