@@ -4,6 +4,9 @@
 
 #### **Seja Bem vindo(a)**, aqui vou está compartilhando com vocês não só a minha evolução na carreira de ***dev full stack*** como também a minha criatividade, sinta-se a vontade para comentar e explorar os conteúdos.
 
+**Soft skills:**
+<a href="https://www.linkedin.com/in/renan-marques-615882a4/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABYyuPEBTDGZ0MPyc0np-g6KNgFZnrkuerg,1605004681721)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BwjXIcLTPSpWmODfvWkpPeA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view" color="green">Meu Ikigai</a>
+
 **Hard skills:**</br><img src="https://www.flaticon.com/svg/static/icons/svg/226/226269.svg" alt="HTML5" title="HTML5" width="20" height="20"/> 
 <img src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" alt="CSS" title="CSS" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="JS" title="JavaScript" width="20" height="20"/>
