@@ -16,6 +16,7 @@
 <img src="https://soltveit.org/wp-content/uploads/2014/02/mysql-database-logo-web.png" alt="MySQL" title="MySQL" width="20" height="20"/>
 <img src="http://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png" alt="PHP" title="PHP" width="20" height="20"/>
 <img src="https://sdtimes.com/wp-content/uploads/2018/01/bootstrap-stack.png" alt="Bootstrap" title="Bootstrap" width="20" height="20"/>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg" alt="React" title="React" width="20" height="20"/>
 ...
 <!--
 **Soft Skills:** - habilidades interpessoais
