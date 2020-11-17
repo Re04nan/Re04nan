@@ -17,6 +17,7 @@
 <img src="http://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png" alt="PHP" title="PHP" width="20" height="20"/>
 <img src="https://sdtimes.com/wp-content/uploads/2018/01/bootstrap-stack.png" alt="Bootstrap" title="Bootstrap" width="20" height="20"/>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg" alt="React" title="React" width="20" height="20"/>
+<img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111656.svg" alt="Trello" title="Trello" width="20" height="20"/>
 ...
 <!--
 **Soft Skills:** - habilidades interpessoais
