@@ -3,9 +3,14 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/renan-marques-615882a4/) </br>
 
 #### **Seja Bem vindo(a)**, aqui vou está compartilhando com vocês não só a minha evolução na carreira de ***dev full stack*** como também a minha criatividade, sinta-se a vontade para comentar e explorar os conteúdos.
-
+<!---
+**Artigos:**
+<br/>
+<a href="https://renan04-marques.medium.com/os-7-erros-de-codifica%C3%A7%C3%A3o-mais-comuns-que-todo-dev-iniciante-comete-e1aa15afdd36"><img src="https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png" width="20" height="20"/>Medium<a/>  
+![https://img.shields.io/endpoint?color=black&label=Medium&logo=https%3A%2F%2Fmiro.medium.com%2F1%2Am-R_BkNf1Qjr1YbyOIJY2w.png&logoColor=black&style=flat-square&url=https%3A%2F%2Frenan04-marques.medium.com%2Fos-7-erros-de-codifica%25C3%25A7%25C3%25A3o-mais-comuns-que-todo-dev-iniciante-comete-e1aa15afdd36]
+-->
 **Soft skills:**
-</br>
+<br/>
 <a href="https://www.linkedin.com/in/renan-marques-615882a4/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABYyuPEBTDGZ0MPyc0np-g6KNgFZnrkuerg,1605004681721)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BwjXIcLTPSpWmODfvWkpPeA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view" color="green">🔗 Meu Ikigai</a>
 
 **Hard skills:**
