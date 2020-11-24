@@ -23,6 +23,7 @@
 <img src="https://sdtimes.com/wp-content/uploads/2018/01/bootstrap-stack.png" alt="Bootstrap" title="Bootstrap" width="20" height="20"/>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg" alt="React" title="React" width="20" height="20"/>
 <img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111656.svg" alt="Trello" title="Trello" width="20" height="20"/>
+<img src="https://static.figma.com/app/icon/1/favicon.png" alt="Figma" title="Figma" width="20" height="20"/>
 ...
 <!--
 **Soft Skills:** - habilidades interpessoais
