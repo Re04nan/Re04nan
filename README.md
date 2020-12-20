@@ -1,6 +1,6 @@
 ### Renan Marques 🎯📚🚀
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/renan-marques-615882a4/) </br>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/renan-marques-dev/) </br>
 
 #### **Seja Bem vindo(a)**, aqui vou está compartilhando com vocês não só a minha evolução na carreira de ***dev full stack*** como também a minha criatividade, sinta-se a vontade para comentar e explorar os conteúdos.
 
