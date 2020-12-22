@@ -14,17 +14,17 @@
 <a href="https://www.linkedin.com/in/renan-marques-615882a4/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABYyuPEBTDGZ0MPyc0np-g6KNgFZnrkuerg,1605004681721)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BwjXIcLTPSpWmODfvWkpPeA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view" color="green">🔗 Meu Ikigai</a>
 
 **Hard skills:**
-</br><img src="https://www.flaticon.com/svg/static/icons/svg/226/226269.svg" alt="HTML5" title="HTML5" width="20" height="20"/> 
-<img src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" alt="CSS" title="CSS" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="JS" title="JavaScript" width="20" height="20"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git" title="Git" width="20" height="20"/>
-<img src="https://soltveit.org/wp-content/uploads/2014/02/mysql-database-logo-web.png" alt="MySQL" title="MySQL" width="20" height="20"/>
-<img src="http://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png" alt="PHP" title="PHP" width="20" height="20"/>
-<img src="https://sdtimes.com/wp-content/uploads/2018/01/bootstrap-stack.png" alt="Bootstrap" title="Bootstrap" width="20" height="20"/>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg" alt="React" title="React" width="20" height="20"/>
-<img src="https://a.trellocdn.com/prgb/dist/images/ios/apple-touch-icon-precomposed.8de2074e8a785dd5d498.png" alt="Trello" title="Trello" width="20" height="20"/>
-<img src="https://static.figma.com/app/icon/1/favicon.png" alt="Figma" title="Figma" width="20" height="20"/>
-<img src="http://www.tipstoremember.com/wp-content/uploads/2017/09/nodejs_logo.png" alt="NodeJS" title="NodeJS" width="20" height="20"/>
+</br><img src="https://www.flaticon.com/svg/static/icons/svg/226/226269.svg" alt="HTML5" title="HTML5" width="40" height="40"/> 
+<img src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" alt="CSS" title="CSS" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="JS" title="JavaScript" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git" title="Git" width="40" height="40"/>
+<img src="https://soltveit.org/wp-content/uploads/2014/02/mysql-database-logo-web.png" alt="MySQL" title="MySQL" width="40" height="40"/>
+<img src="http://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png" alt="PHP" title="PHP" width="40" height="40"/>
+<img src="https://sdtimes.com/wp-content/uploads/2018/01/bootstrap-stack.png" alt="Bootstrap" title="Bootstrap" width="40" height="40"/>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg" alt="React" title="React" width="40" height="40"/>
+<img src="https://a.trellocdn.com/prgb/dist/images/ios/apple-touch-icon-precomposed.8de2074e8a785dd5d498.png" alt="Trello" title="Trello" width="40" height="40"/>
+<img src="https://static.figma.com/app/icon/1/favicon.png" alt="Figma" title="Figma" width="40" height="40"/>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" alt="NodeJS" title="NodeJS" width="40" height="40"/>
 ...
 <!--
 **Soft Skills:** - habilidades interpessoais
