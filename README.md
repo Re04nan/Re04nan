@@ -1,10 +1,10 @@
-### Renan Marques 🎯📚🚀
+### Hello, my name is Renan Marques from <img src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" title="Brazil" width="30" height="30"/> 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/renan-marques-dev/) </br>
 
-#### **Seja Bem vindo(a)**, aqui vou está compartilhando com vocês não só a minha evolução na carreira de ***dev full stack*** como também a minha criatividade, sinta-se a vontade para comentar e explorar os conteúdos.
+#### **Welcome**, here i am sharing with you not only my evolution in ***dev full stack*** career but also my creativity, feel free to comment and explore the contents.🎯📚🚀
 
-**Artigos:**
+**Articles:**
 <br/>
 <a href="https://renan04-marques.medium.com/os-7-erros-de-codifica%C3%A7%C3%A3o-mais-comuns-que-todo-dev-iniciante-comete-e1aa15afdd36">
 ![Badge](https://img.shields.io/static/v1?labelColor=black&label&message=Medium&color=black&style=flat-square&logo=Medium)<a/>  
