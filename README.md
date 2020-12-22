@@ -11,7 +11,7 @@
 
 **Soft skills:**
 <br/>
-<a href="https://www.linkedin.com/in/renan-marques-615882a4/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABYyuPEBTDGZ0MPyc0np-g6KNgFZnrkuerg,1605004681721)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BwjXIcLTPSpWmODfvWkpPeA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view" color="green">🔗 Meu Ikigai</a>
+<a href="https://www.linkedin.com/in/renan-marques-615882a4/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABYyuPEBTDGZ0MPyc0np-g6KNgFZnrkuerg,1605004681721)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BwjXIcLTPSpWmODfvWkpPeA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view" color="green">🔗 My Ikigai</a>
 
 **Hard skills:**
 </br><img src="https://www.flaticon.com/svg/static/icons/svg/226/226269.svg" alt="HTML5" title="HTML5" width="40" height="40"/> 
