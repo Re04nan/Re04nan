@@ -24,6 +24,7 @@
 <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg" alt="React" title="React" width="20" height="20"/>
 <img src="https://a.trellocdn.com/prgb/dist/images/ios/apple-touch-icon-precomposed.8de2074e8a785dd5d498.png" alt="Trello" title="Trello" width="20" height="20"/>
 <img src="https://static.figma.com/app/icon/1/favicon.png" alt="Figma" title="Figma" width="20" height="20"/>
+<img src="http://www.tipstoremember.com/wp-content/uploads/2017/09/nodejs_logo.png" alt="NodeJS" title="NodeJS" width="20" height="20"/>
 ...
 <!--
 **Soft Skills:** - habilidades interpessoais
