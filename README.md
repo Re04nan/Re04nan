@@ -4,6 +4,9 @@
 
 #### **Welcome**, here i am sharing with you not only my evolution in ***dev full stack*** career but also my creativity, feel free to comment and explore the contents.🎯📚🚀
 
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="left" alt="gif code" title="gif code" width="320" height="220"/>
+
 **Articles:**
 <br/>
 <a href="https://renan04-marques.medium.com/os-7-erros-de-codifica%C3%A7%C3%A3o-mais-comuns-que-todo-dev-iniciante-comete-e1aa15afdd36">
