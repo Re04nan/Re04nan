@@ -33,6 +33,7 @@
 <img src="https://www.logolynx.com/images/logolynx/7f/7fb976a537620fed310872d533cd161c.png" alt="NPM" title="NPM" width="40" height="40"/>
 <img src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" alt="Babel" title="Babel" width="50" height="50"/>
 <img src="https://i0.wp.com/sempreupdate.com.br/wp-content/uploads/2018/09/como-instalar-o-yarn-um-gerenciador-de-pacotes-npm-instale-agora-no-ubuntu-debian-e-fedora.png?fit=800%2C358&ssl=1" alt="Yarn" title="Yarn" width="80" height="40"/>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/aws-ec2-logo-png-transparent.png" alt="AWS EC2" title="AWS EC2" width="40" height="40"/>
 
 ...
 
