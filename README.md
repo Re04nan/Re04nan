@@ -35,6 +35,7 @@
 <img src="https://i0.wp.com/sempreupdate.com.br/wp-content/uploads/2018/09/como-instalar-o-yarn-um-gerenciador-de-pacotes-npm-instale-agora-no-ubuntu-debian-e-fedora.png?fit=800%2C358&ssl=1" alt="Yarn" title="Yarn" width="80" height="40"/>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/aws-ec2-logo-png-transparent.png" alt="AWS EC2" title="AWS EC2" width="40" height="40"/>
 <img src="http://static.tumblr.com/lbtm3t2/8PAn0kziu/mongodb-logo.png" alt="MongoDB" title="MongoDB" width="40" height="40"/>
+<img src="https://www.iconattitude.com/icons/open_icon_library/apps/png/256/apache.png" alt="Apache" title="Apache" width="40" height="40"/>
 
 ...
 
