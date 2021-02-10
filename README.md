@@ -1,5 +1,3 @@
-<a href="https://www.webcontadores.com" title="contador de visitas para blogspot"><img src="https://counter8.stat.ovh/private/webcontadores.php?c=j15sg81mlpbfj8zwnzfur92pgdfme7pg" border="0" title="contador de visitas para blogspot" alt="contador de visitas para blogspot"></a>
-
 ### Hello, my name is Renan Marques from <img src="https://www.flaticon.com/svg/static/icons/svg/2943/2943343.svg" alt="Brazil" title="Brazil" width="30" height="30"/> 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/renan-marques-dev/) </br>
