@@ -1,4 +1,4 @@
-### Hello, my name is Renan Marques from <img src="https://www.flaticon.com/svg/static/icons/svg/2943/2943343.svg" alt="Brazil" title="Brazil" width="30" height="30"/> 
+### Hello, my name is Renan Marques from Brazil
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/renan-marques-dev/) </br>
 
