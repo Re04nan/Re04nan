@@ -1,6 +1,6 @@
 ### Hello, my name is Renan Marques from Brazil
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/renan-marques-dev/) </br>
+<a href="https://www.linkedin.com/in/renan-marques-dev/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" title="Linkedin" width="40" height="40"/></a></br>
 
 #### **Welcome**, here i am sharing with you not only my evolution in ***dev full stack*** career but also my creativity, feel free to comment and explore the contents.🎯📚🚀
 
