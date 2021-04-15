@@ -6,7 +6,7 @@
 
 **Articles:**
 <br/>
-<a href="https://renan04-marques.medium.com/os-7-erros-de-codifica%C3%A7%C3%A3o-mais-comuns-que-todo-dev-iniciante-comete-e1aa15afdd36">
+<a href="https://renan04-marques.medium.com/">
 ![Badge](https://img.shields.io/static/v1?labelColor=black&label&message=Medium&color=black&style=flat-square&logo=Medium)<a/>  
 
 **Soft skills:**
