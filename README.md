@@ -2,6 +2,11 @@
 
 <a href="https://www.linkedin.com/in/renan-marques-dev/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" title="Linkedin" width="40" height="40"/></a></br>
 
+<a href="https://www.linkedin.com/in/renan-marques-dev/">
+  
+![Badge](https://img.shields.io/static/v1?labelColor=blue&label&message=Linkedin&color=blue&style=for-the-badge&logo=Linkedin)
+</a>
+
 #### **Welcome**, here i am sharing with you not only my evolution in ***dev full stack*** career but also my creativity, feel free to comment and explore the contents.🎯📚🚀
 
 **Articles:**
