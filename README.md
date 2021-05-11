@@ -1,7 +1,5 @@
 ### Hello, my name is Renan Marques from Brazil
 
-<a href="https://www.linkedin.com/in/renan-marques-dev/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" title="Linkedin" width="40" height="40"/></a></br>
-
 <a href="https://www.linkedin.com/in/renan-marques-dev/">
   
 ![Badge](https://img.shields.io/static/v1?labelColor=blue&label&message=Linkedin&color=blue&style=for-the-badge&logo=Linkedin)
