@@ -42,6 +42,7 @@
 <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/eslint-1-logo.png" alt="ESLint" title="ESLint" width="45" height="40"/>
 <img src="https://image.flaticon.com/icons/svg/226/226777.svg" alt="Java" title="Java" width="45" height="40"/>
 <img src="http://maven.apache.org/images/maven-logo-black-on-white.png" alt="Maven" title="Maven" width="100" height="40"/>
+<img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring" title="Spring" width="100" height="40"/>
 
 ...
 
