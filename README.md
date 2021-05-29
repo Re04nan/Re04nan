@@ -44,6 +44,12 @@
 <img src="http://maven.apache.org/images/maven-logo-black-on-white.png" alt="Maven" title="Maven" width="100" height="40"/>
 <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring" title="Spring" width="100" height="40"/>
 
+<div align="right">  
+  
+<img src="https://visitor-badge.glitch.me/badge?page_id=Re04nan-visitor-badge" alt="visitor badge"/>
+  
+</div>
+
 ...
 
 <!--
