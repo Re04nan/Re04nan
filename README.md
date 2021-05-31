@@ -43,31 +43,15 @@
 <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/eslint-1-logo.png" alt="ESLint" title="ESLint" width="45" height="40"/>
 <img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo.png" alt="Java" title="Java" width="45" height="40"/>
 <img src="http://maven.apache.org/images/maven-logo-black-on-white.png" alt="Maven" title="Maven" width="90" height="40"/>
-<img src="https://img.icons8.com/color/48/4a90e2/spring-logo.png" alt="Spring" title="Spring" width="40" height="40"/>
-
+<img src="https://img.icons8.com/color/48/4a90e2/spring-logo.png" alt="Spring" title="Spring" width="40" height="40"/>...
+  
 </div>
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=Re04nan-visitor-badge" alt="visitor badge" align="right"/> 
-
-...
 
 <!--
 https://github-readme-stats.vercel.app/api?username=Re04nan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true
 **Soft Skills:** - habilidades interpessoais
 **Hard skills:** - habilidades tecnicas
 <img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/20167174151551942641-512.png" alt="react" width="20" height="20"/> <img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/19108918321553750384-512.png" alt="react-native" width="20" height="20"/> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="nodejs" width="20" height="20"/> <img src="https://image.flaticon.com/icons/svg/919/919826.svg" alt="css3" width="20" height="20"/>  <img src="https://image.flaticon.com/icons/svg/919/919827.svg" alt="html5" width="20" height="20"/> <img src="https://image.flaticon.com/icons/svg/226/226777.svg" alt="java" width="20" height="20"/> <img src="https://cdn1.iconfinder.com/data/icons/development-2-yellow/60/30_-Javascript-_development_coding_programming_code-512.png" alt="javascript" width="20" height="20"/> <img src="https://image.flaticon.com/icons/png/512/919/919832.png" alt="typescript" width="20" height="20"/> <img src="https://image.flaticon.com/icons/svg/2772/2772128.svg" alt="sql" width="20" height="20"/> <img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/16876668881551942134-512.png" alt="postgresql" width="20" height="20"/> <img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/19681752361536207300-512.png" alt="bootstrap" width="20" height="20"/> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="mongodb" width="70" height="20"/><img src="https://image.flaticon.com/icons/svg/919/919830.svg" alt="php" width="20" height="20"/>
-
-
-**Re04nan/Re04nan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
