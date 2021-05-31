@@ -46,9 +46,11 @@
 <img src="https://img.icons8.com/color/48/4a90e2/spring-logo.png" alt="Spring" title="Spring" width="40" height="40"/>...
   
 </div>
+<div align="right">
+  
+![](https://komarev.com/ghpvc/?username=Re04nan&label=visitors&color=blue)
 
- ![](https://komarev.com/ghpvc/?username=Re04nan&label=visitors&color=blue)
- 
+</div>
 <!--
 https://github-readme-stats.vercel.app/api?username=Re04nan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true
 **Soft Skills:** - habilidades interpessoais
