@@ -47,8 +47,8 @@
   
 </div>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=Re04nan-visitor-badge" alt="visitor badge" align="right"/> 
-
+ ![](https://komarev.com/ghpvc/?username=Re04nan&label=visitors&color=blue)
+ 
 <!--
 https://github-readme-stats.vercel.app/api?username=Re04nan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true
 **Soft Skills:** - habilidades interpessoais
