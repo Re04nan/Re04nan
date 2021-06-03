@@ -14,7 +14,7 @@
 <a href="https://renan04-marques.medium.com/">
 ![Badge](https://img.shields.io/static/v1?labelColor=black&label&message=Medium&color=black&style=flat-square&logo=Medium)<a/>  
   
-![https://github.com/Re04nan](https://github-readme-stats.vercel.app/api?username=Re04nan&show_icons=false&theme=tokyonight&text_color=007EC6&title_color=fff&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Re04nan&show_icons=false&theme=tokyonight&text_color=007EC6&title_color=fff&hide_border=true)
   
 **Hard skills:**
   
