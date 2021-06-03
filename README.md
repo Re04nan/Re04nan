@@ -1,9 +1,11 @@
 ### Hello, my name is Renan Marques from Brazil
 
+<div align="right">
 <a href="https://www.linkedin.com/in/renan-marques-dev/">
   
 ![Badge](https://img.shields.io/static/v1?labelColor=blue&label&message=Linkedin&color=blue&style=for-the-badge&logo=Linkedin)
 </a>
+</div>
 
 #### **Welcome**, here i am sharing with you not only my evolution in ***dev full stack*** career but also my creativity, feel free to comment and explore the contents.🎯📚🚀
 
@@ -11,9 +13,8 @@
 <br/>
 <a href="https://renan04-marques.medium.com/">
 ![Badge](https://img.shields.io/static/v1?labelColor=black&label&message=Medium&color=black&style=flat-square&logo=Medium)<a/>  
-
-**Soft skills:**
-<a href="https://www.linkedin.com/in/renan-marques-615882a4/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABYyuPEBTDGZ0MPyc0np-g6KNgFZnrkuerg,1605004681721)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BwjXIcLTPSpWmODfvWkpPeA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view" color="green" target="_blank">My Ikigai 🔗</a>
+  
+![](https://github-readme-stats.vercel.app/api?username=Re04nan&show_icons=false&theme=tokyonight&text_color=007EC6&title_color=fff&hide_border=true)
   
 **Hard skills:**
   
@@ -46,6 +47,7 @@
 <img src="https://img.icons8.com/color/48/4a90e2/spring-logo.png" alt="Spring" title="Spring" width="40" height="40"/>...
   
 </div>
+  
 <div align="right">
   
 ![](https://komarev.com/ghpvc/?username=Re04nan&label=visitors&color=blue)
