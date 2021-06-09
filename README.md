@@ -14,7 +14,8 @@
 <a href="https://renan04-marques.medium.com/">
 ![Badge](https://img.shields.io/static/v1?labelColor=black&label&message=Medium&color=black&style=flat-square&logo=Medium)<a/>  
   
-![](https://github-readme-stats.vercel.app/api?username=Re04nan&show_icons=false&theme=tokyonight&text_color=007EC6&title_color=fff&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Re04nan&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Re04nan&theme=github_dark)
   
 **Hard skills:**
   
@@ -54,6 +55,7 @@
 
 </div>
 <!--
+![](https://github-readme-stats.vercel.app/api?username=Re04nan&show_icons=false&theme=tokyonight&text_color=007EC6&title_color=fff&hide_border=true)
 https://github-readme-stats.vercel.app/api?username=Re04nan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true
 **Soft Skills:** - habilidades interpessoais
 **Hard skills:** - habilidades tecnicas
