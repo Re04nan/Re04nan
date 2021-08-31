@@ -46,7 +46,8 @@
 <img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo.png" alt="Java" title="Java" width="45" height="40"/>
 <img src="http://maven.apache.org/images/maven-logo-black-on-white.png" alt="Maven" title="Maven" width="90" height="40"/>
 <img src="https://img.icons8.com/color/48/4a90e2/spring-logo.png" alt="Spring" title="Spring" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>...
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
+<img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit 5" title="JUnit 5" width="40" height="40"/>...
   
 </div>
   
