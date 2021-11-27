@@ -17,36 +17,32 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Re04nan&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Re04nan&theme=github_dark)
   
-**Hard skills:**
+**Languages and tools:**
   
 <div align="center">
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" title="HTML5" width="40" height="40"/> 
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" width="40" height="40"/>
 <img src="https://img.icons8.com/color/50/000000/javascript.png" alt="JS" title="JavaScript" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" width="40" height="40"/>
+<img src="https://img.utdstc.com/icon/cdf/35f/cdf35fbb626b95a487964aa2f5b419625fde787a7a59fcd567e3e38b0b550ee9:200" alt="ToroiseSVN" title="TortoiseSVN" width="50" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" width="40" height="40"/>
-<img src="https://img.icons8.com/officel/40/000000/php-logo.png" alt="PHP" title="PHP" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/4a90e2/mongodb.png" alt="MongoDB" title="MongoDB" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
 <img src="https://img.icons8.com/plasticine/100/4a90e2/react.png" alt="React" title="React" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/4a90e2/redux.png" alt="Redux" title="Redux" width="40" height="40"/>
+<img src="https://img.icons8.com/color/344/angularjs.png" alt="Angular" title="Angular" width="40" height="40"/>
 <img src="https://img.icons8.com/ios-filled/50/4a90e2/trello.png" alt="Trello" title="Trello" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/4a90e2/figma.png" alt="Figma" title="Figma" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/4a90e2/linux.png" alt="LINUX" title="LINUX" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/4a90e2/windows-10.png" alt="Windows" title="Windows" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/4a90e2/nodejs.png" alt="NodeJS" title="NodeJS" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/4a90e2/npm.png" alt="NPM" title="NPM" width="40" height="40"/>
-<img src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" alt="Babel" title="Babel" width="50" height="50"/>
-<img src="https://img.icons8.com/windows/64/4a90e2/yarn-logo.png" alt="Yarn" title="Yarn" width="50" height="50"/>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/aws-ec2-logo-png-transparent.png" alt="AWS EC2" title="AWS EC2" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/4a90e2/mongodb.png" alt="MongoDB" title="MongoDB" width="40" height="40"/>
 <img src="https://www.iconattitude.com/icons/open_icon_library/apps/png/256/apache.png" alt="Apache" title="Apache" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" title="React Native" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/Unitech/pm2/master/pres/pm2-v4.png" alt="PM2" title="PM2" width="90" height="40"/>
+<img src="https://raw.githubusercontent.com/Unitech/pm2/master/pres/pm2-v4.png" alt="PM2" title="PM2" width="80" height="35"/>
 <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/eslint-1-logo.png" alt="ESLint" title="ESLint" width="45" height="40"/>
 <img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo.png" alt="Java" title="Java" width="45" height="40"/>
-<img src="http://maven.apache.org/images/maven-logo-black-on-white.png" alt="Maven" title="Maven" width="90" height="40"/>
+<img src="http://maven.apache.org/images/maven-logo-black-on-white.png" alt="Maven" title="Maven" width="80" height="35"/>
 <img src="https://img.icons8.com/color/48/4a90e2/spring-logo.png" alt="Spring" title="Spring" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
 <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit 5" title="JUnit 5" width="40" height="40"/>...
   
 </div>
