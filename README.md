@@ -6,6 +6,7 @@ I'm a software developer in Brazil, here I am sharing my career evolution. </br>
 
 [![Badge](https://img.shields.io/static/v1?labelColor=blue&label&message=Linkedin&color=blue&style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/renan-marques-dev/)
 [![Badge](https://img.shields.io/static/v1?labelColor=black&label&message=Medium&color=black&style=flat-square&logo=Medium)](https://renan04-marques.medium.com/)
+[![Badge](https://img.shields.io/static/v1?labelColor=white&label&message=Instagram&color=white&style=flat-square&logo=Instagram)](https://www.instagram.com/remarques.tech/)
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Re04nan&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Re04nan&theme=github_dark)
