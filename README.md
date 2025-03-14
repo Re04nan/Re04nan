@@ -28,8 +28,6 @@ I'm a software developer in Brazil, here I am sharing my career evolution. </br>
 </br>
 <img src="https://img.icons8.com/plasticine/100/4a90e2/react.png" alt="React" title="React" width="40" height="40"/>
 <img src="https://img.icons8.com/color/344/angularjs.png" alt="Angular" title="Angular" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/4a90e2/linux.png" alt="LINUX" title="LINUX" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/4a90e2/windows-10.png" alt="Windows" title="Windows" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/4a90e2/nodejs.png" alt="NodeJS" title="NodeJS" width="40" height="40"/>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/aws-ec2-logo-png-transparent.png" alt="AWS EC2" title="AWS EC2" width="40" height="40"/>
 <img src="https://www.iconattitude.com/icons/open_icon_library/apps/png/256/apache.png" alt="Apache" title="Apache" width="40" height="40"/>
